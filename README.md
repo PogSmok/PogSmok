@@ -25,6 +25,8 @@ I’m a student at the Military University of Technology, passionate about low-l
 - [**ChaCha20 Implementation**](https://github.com/PogSmok/ChaCha20) – Cryptography algorithm in C++, accelerated with SIMD optimizations.  
 - [**Laboratory Mixer**](https://github.com/PogSmok/Laboratory-Mixer) – Embedded system on AT89C52, fully interrupt-driven for precise control. 
 - [**FPGA 7-Segment Clock**](https://github.com/PogSmok/7seg_clock_FPGA_VHDL) – A modular VHDL digital clock with millisecond precision for FPGA.
+- [**WinD**](https://github.com/PogSmok/WinD) – High-performance console rendering and audio playback DLL for Windows x86_64.
+- [**HNSW**](https://github.com/PogSmok/Hierarchical-Navigable-Small-World) – Paper and documentation on the Hierarchical Navigable Small World (HNSW) algorithm; written in Polish.
 
 ### GitHub Stats
 ![PogSmok's GitHub stats](https://github-readme-stats.vercel.app/api?username=PogSmok&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
