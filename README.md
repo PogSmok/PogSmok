@@ -8,11 +8,10 @@ I’m a student at the Military University of Technology, passionate about low-l
 ![VHDL](https://img.shields.io/badge/-VHDL-5C2D91?logo=vhdl&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 - 🚀 Working on:
-  - Embedded system for a rover competition (ROS2, C/C++, Python)  
+  - Embedded system for a rover competition based on STM32 and Raspberry PI 5 (ROS2, C/C++, Python)  
   - 8-bit computer circuit in Proteus
 - 📖 Learning:
   - PCB design
