@@ -11,12 +11,14 @@ I’m a student at the Military University of Technology, passionate about low-l
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 - 🚀 Working on:
-  - Embedded system for a rover competition based on STM32 and Raspberry PI 5 (ROS2, C/C++, Python)  
-  - 8-bit computer circuit in Proteus  
+  - Embedded system for a rover competition based on STM32 and Raspberry PI 5. (ROS2, C/C++, Python)  
+  - 8-bit computer circuit in Proteus  .
   - Computer resource monitor. Plug through USB and read data from LCD, based on Seeduino.
+  - Car radio with FM/AM stations and Bluetooth support, based on ESP.
+  - Rust command line based file compressor/decompressor.
 - 📖 Learning:
   - PCB design
-  - Electrical Circuit Design
+  - Electrical circuit design
 
 ### Featured Projects
 - [**PGN Reader**](https://github.com/PogSmok/PGN-Reader) – Ultra-fast CLI tool for reading .pgn files, written in C and optimized for maximum performance. 
