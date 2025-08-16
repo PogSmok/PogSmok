@@ -1,16 +1,28 @@
-## Hi there 👋
+# About Me:
+I’m a student at the Military University of Technology, passionate about low-level and embedded systems. I don’t just aim to make things work—I strive to make them efficient, smart, and elegant. I love optimizing code and hardware, pushing the limits of performance in low-end systems. My goal is to create hardware and firmware that don’t just function, but reshape the way technology works.
 
-<!--
-**PogSmok/PogSmok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=assemblyscript&logoColor=white)
+![VHDL](https://img.shields.io/badge/-VHDL-5C2D91?logo=vhdl&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+- 🚀 Working on:
+  - Embedded system for a rover competition (ROS2, C/C++, Python)  
+  - 8-bit computer circuit in Proteus
+- 📖 Learning:
+  - PCB design
+  - Electrical Circuit Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- [**PGN Reader**](https://github.com/PogSmok/PGN-Reader) – Ultra-fast CLI tool for reading .pgn files, written in C and optimized for maximum performance. 
+- [**ChaCha20 Implementation**](https://github.com/PogSmok/ChaCha20) – Cryptography algorithm in C++, accelerated with SIMD optimizations.  
+- [**Laboratory Mixer**](https://github.com/PogSmok/Laboratory-Mixer) – Embedded system on AT89C52, fully interrupt-driven for precise control. 
+- [**FPGA 7-Segment Clock**](https://github.com/PogSmok/7seg_clock_FPGA_VHDL) – A modular VHDL digital clock with millisecond precision for FPGA.
+
+### GitHub Stats
+![PogSmok's GitHub stats](https://github-readme-stats.vercel.app/api?username=PogSmok&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
