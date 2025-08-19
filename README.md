@@ -10,13 +10,14 @@ I’m a student at the Military University of Technology, passionate about low-l
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-- 🚀 Working on:
+### Working on:
   - Embedded system for a rover competition based on STM32 and Raspberry PI 5. (ROS2, C/C++, Python)  
   - 8-bit computer circuit in Proteus  .
   - Computer resource monitor. Plug through USB and read data from LCD, based on Seeduino.
   - Car radio with FM/AM stations and Bluetooth support, based on ESP.
   - Rust command line based file compressor/decompressor.
-- 📖 Learning:
+
+### Learning:
   - PCB design
   - Electrical circuit design
 
