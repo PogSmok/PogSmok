@@ -29,4 +29,5 @@ I’m a student at the Military University of Technology, passionate about low-l
 - [**HNSW**](https://github.com/PogSmok/Hierarchical-Navigable-Small-World) – Paper and documentation on the Hierarchical Navigable Small World (HNSW) algorithm; written in Polish.
 
 ### GitHub Stats
-![PogSmok's GitHub stats](https://github-readme-stats.vercel.app/api?username=PogSmok&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![PogSmok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pogsmok&theme=dark&show_icons=true&hide_border=false&layout=compact)  
+![PogSmok's GitHub stats](https://github-readme-stats.vercel.app/api?username=pogsmok&theme=dark&show_icons=true&hide_border=false&count_private=true)
