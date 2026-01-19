@@ -5,14 +5,13 @@ I’m a student at the Military University of Technology, passionate about low-l
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=assemblyscript&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-5C2D91?logo=vhdl&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-8E44AD?logo=hdl&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ### Working on:
   - Embedded system for a rover competition based on STM32 and Raspberry PI 5. (ROS2, C/C++, Python)  
-  - 8-bit computer circuit in Proteus  .
   - Computer resource monitor. Plug through USB and read data from LCD, based on Seeduino.
   - Car radio with FM/AM stations and Bluetooth support, based on ESP.
   - Rust command line based file compressor/decompressor.
