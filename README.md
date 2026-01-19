@@ -1,5 +1,5 @@
 # About Me:
-I’m a student at the Military University of Technology, passionate about low-level and embedded systems. I don’t just aim to make things work—I strive to make them efficient, smart, and elegant. I love optimizing code and hardware, pushing the limits of performance in low-end systems. My goal is to create hardware and software that don’t just function, but reshape the way technology works.
+I’m a student at the Military University of Technology, passionate about low-level and embedded systems. I don’t just aim to make things work; I strive to make them efficient, smart, and elegant. I love optimizing code and hardware, pushing the limits of performance in low-end systems. My goal is to create hardware and software that don’t just function, but reshape the way technology works.
 
 ### Tech Stack
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
