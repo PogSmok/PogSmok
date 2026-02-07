@@ -27,7 +27,3 @@ I’m a student at the Military University of Technology, passionate about low-l
 - [**FPGAcademy**](https://github.com/PogSmok/FPGAcademy) – Solutions for FPGAcademy course.
 - [**WinD**](https://github.com/PogSmok/WinD) – High-performance console rendering and audio playback DLL for Windows x86_64.
 - [**HNSW**](https://github.com/PogSmok/Hierarchical-Navigable-Small-World) – Paper and documentation on the Hierarchical Navigable Small World (HNSW) algorithm; written in Polish.
-
-### GitHub Stats
-![PogSmok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pogsmok&theme=dark&show_icons=true&hide_border=false&layout=compact)  
-![PogSmok's GitHub stats](https://github-readme-stats.vercel.app/api?username=pogsmok&theme=dark&show_icons=true&hide_border=false&count_private=true)
