@@ -12,11 +12,10 @@ I’m a student at the Military University of Technology, passionate about low-l
 
 ### Working on:
   - Embedded system for a rover competition based on STM32 and Raspberry PI 5. (ROS2, C/C++, Python)  
-  - Computer resource monitor. Plug through USB and read data from LCD, based on Seeduino.
-  - Car radio with FM/AM stations and Bluetooth support, based on ESP.
-  - Rust command line based file compressor/decompressor.
+  - Rust sensor fusion crate.
+  - FPGA programming
 
-### Learning:
+### Next learning topics:
 - GPU programming
 - Python ML
 
