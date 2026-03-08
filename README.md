@@ -12,12 +12,13 @@ I’m a student at the Military University of Technology, passionate about low-l
 
 ### Working on:
   - Embedded system for a rover competition based on STM32 and Raspberry PI 5. (ROS2, C/C++, Python)  
-  - Rust sensor fusion crate.
+  - Rust sensor fusion crate
   - FPGA programming
 
 ### Next learning topics:
 - GPU programming
 - Python ML
+- Yocto Project
 
 ### Featured Projects
 - [**PGN Reader**](https://github.com/PogSmok/PGN-Reader) – Ultra-fast CLI tool for reading .pgn files, written in C and optimized for maximum performance. 
