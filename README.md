@@ -12,7 +12,7 @@ I’m a student at the Military University of Technology, passionate about low-l
 
 ### Working on:
   - Embedded system for a rover competition based on STM32 and Raspberry PI 5. (ROS2, C/C++, Python)  
-  - Rust sensor fusion crate
+  - OpenQASM IDE with simulation
   - FPGA programming
 
 ### Next learning topics:
