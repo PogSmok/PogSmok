@@ -28,3 +28,4 @@ I’m a student at the Military University of Technology, passionate about low-l
 - [**FPGAcademy**](https://github.com/PogSmok/FPGAcademy) – Solutions for FPGAcademy course.
 - [**WinD**](https://github.com/PogSmok/WinD) – High-performance console rendering and audio playback DLL for Windows x86_64.
 - [**HNSW**](https://github.com/PogSmok/Hierarchical-Navigable-Small-World) – Paper and documentation on the Hierarchical Navigable Small World (HNSW) algorithm; written in Polish.
+- [**voice-auth**](https://github.com/PogSmok/voice-auth) - Offline voice authentication system implemented in Python.
